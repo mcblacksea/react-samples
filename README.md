@@ -1,8 +1,8 @@
 # react-samples
 
 ### `basic-app`
-Newest react scripts version:
-npx create-react-app basic-app
+Created with npx:
+`npx create-react-app basic-app`
 
 ### `complete-react-app`
 Created with old scripts version:
